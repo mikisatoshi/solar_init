@@ -1,0 +1,8 @@
+{
+  "name" : "hogehoge",
+  "bookname" : "hogehoge",
+  "sheetname" : "hogehoge",
+  "keyname" : "./../certification/hogehoge.json",
+  "logger" : "off",
+  "takephoto" : "off"
+}
