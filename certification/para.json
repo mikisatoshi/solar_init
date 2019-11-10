@@ -1,8 +1,8 @@
 {
-  "name" : "hogehoge",
-  "bookname" : "hogehoge",
-  "sheetname" : "hogehoge",
-  "keyname" : "./../certification/hogehoge.json",
-  "logger" : "off",
-  "takephoto" : "off"
+  "bookname"    :  "solar_database",
+  "sheetname"   :  "koizumi",
+  "keyname"     :  "./../certification/key.json",
+  "logger_test"    : "off",
+  "logger"         : "off",
+  "takephoto"      : "off"
 }
