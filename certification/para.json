@@ -2,7 +2,9 @@
   "bookname"    :  "solar_database",
   "sheetname"   :  "koizumi",
   "keyname"     :  "./../certification/key.json",
-  "logger_test"    : "off",
-  "logger"         : "off",
-  "takephoto"      : "off"
+  "logger_test"       : "off",
+  "logger"            : "off",
+  "takephoto"         : "off",
+  "make_hour_report"  : "off",
+  "make_daily_report" : "off"
 }
